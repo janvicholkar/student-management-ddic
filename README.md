@@ -22,3 +22,18 @@ Each object is stored as an XML file inside the `src` folder.
 
 ## Tools
 SAP ECC, SE11 (ABAP Dictionary), abapGit
+
+
+## Screenshots
+
+### ZZSTUDENT_24 - Table structure (SE11)
+![ZZSTUDENT_24 structure](screenshots/zzstudent_24.png)
+
+### ZZSTUDENT_24 - Table data (SE16N)
+![ZZSTUDENT_24 data](screenshots/zzstudent_24_data.png)
+
+### ZZMARKS_24 - Table structure (SE11)
+![ZZMARKS_24 structure](screenshots/ZZMARKS_24.png)
+
+### ZCOURSE_24 - Table structure (SE11)
+![ZCOURSE_24 structure](screenshots/ZCOURSE_24.png)
